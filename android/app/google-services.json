@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470070135130",
+    "project_id": "vp7-fb-app-a6d1d",
+    "storage_bucket": "vp7-fb-app-a6d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470070135130:android:df8f30ab8139f9bbe50b63",
+        "android_client_info": {
+          "package_name": "com.vp7_firebase_app.vp7_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470070135130-tp9am42t1q5580agagoi8edpjfc9du38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLHRk9GHO5VUvXEq4mJwrHS3EYQDblyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470070135130-tp9am42t1q5580agagoi8edpjfc9du38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
