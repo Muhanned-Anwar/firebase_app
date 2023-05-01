@@ -1,4 +1,4 @@
-# vp7_firebase_app
+# firebase_app
 
 A new Flutter project.
 
